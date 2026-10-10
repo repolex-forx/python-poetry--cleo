@@ -1,0 +1,11 @@
+{
+  "org": "python-poetry",
+  "repo": "cleo",
+  "versions": [
+    {
+      "commit": "8c3f1bbf82d918fc137ad40db65c446e14564aac",
+      "tag": "",
+      "parsed_at": "2026-10-10T22:35:07.333111+00:00"
+    }
+  ]
+}
