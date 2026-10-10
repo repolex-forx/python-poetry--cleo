@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/python-poetry/cleo/commit/8c3f1bbf82d918fc137ad40db65c446e14564aac",
       "git:hexsha": "8c3f1bbf82d918fc137ad40db65c446e14564aac",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/python-poetry/cleo/commit/6c58884d281f966f94e4c24a63427a61315ee1a1",
